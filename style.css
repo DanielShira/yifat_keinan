@@ -1,0 +1,37 @@
+body {
+	background-color: pink;
+	font-family: "Amatic SC", sans-serif;
+	font-size: 30px;
+	text-align: center;
+}
+
+
+img {
+	width:30%
+}
+
+.logo-image {
+	width:600px
+}
+
+.instaLogo {
+	width: 80px	
+}
+
+.button {
+	background-color: #CC7A8B;
+    border: none; /* Remove borders */
+    color: white; /* White text */
+    padding: 10px 20px; /* Padding */
+    text-align: center; /* Centered text */
+    text-decoration: none; /* Remove underline */
+    display: inline-block; /* Inline-block display */
+    font-size: 30px; /* Font size */
+    margin: 4px 2px; /* Margins */
+    cursor: pointer; /* Pointer cursor on hover */
+    border-radius: 5px; /* Rounded corners */
+  }
+
+  .button:hover {
+    background-color: #B38481;
+  }
